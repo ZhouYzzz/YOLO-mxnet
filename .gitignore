@@ -1,0 +1,6 @@
+# python file
+*.pyc
+
+# dirs
+data/
+model/
